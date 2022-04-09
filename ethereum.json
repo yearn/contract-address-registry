@@ -1,0 +1,204 @@
+{
+    "tokens": {
+        "USDT": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "USDC": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "DAI": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "WBTC": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "YFI": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "WETH": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "TOKE": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94"
+    },
+    "vaults": {
+        "DAI": "0xdA816459F1AB5631232FE5e97a05BBBb94970c95",
+        "YFI": "0xdb25cA703181E7484a155DD612b06f57E12Be5F0",
+        "USDC": "0xa354F35829Ae975e850e23e9615b11Da1B3dC4DE",
+        "SUSHI": "0x6d765CbE5bC922694afE112C140b8878b9FB0390",
+        "AAVE": "0xd9788f3931Ede4D5018184E198699dC6d66C1915",
+        "TUSD": "0xFD0877d9095789cAF24c98F7CCe092fa8E120775",
+        "COMP": "0x4A3FE75762017DB0eD73a71C9A06db7768DB5e66",
+        "LUSD": "0x378cb52b00F9D0921cb46dFc099CFf73b42419dC",
+        "WETH": "0xa258C4606Ca8206D8aA700cE2143D7db854D168c",
+        "LINK": "0x671a912C10bba0CFA74Cfc2d6Fba9BA1ed9530B2",
+        "RAI": "0x873fB544277FD7b977B196a826459a69E27eA4ea",
+        "WBTC": "0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E",
+        "USDT": "0x7Da96a3891Add058AdA2E826306D812C638D87a7",
+        "UNI": "0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42",
+        "SNX": "0xF29AE508698bDeF169B89834F76704C3B205aedf",
+        "curve_lp": {
+            "ibKRW": "0x528D50dC9a333f01544177a924893FA1F5b9F748",
+            "ibJPY": "0x59518884EeBFb03e90a18ADBAAAB770d4666471e",
+            "ibGBP": "0x595a68a8c9D5C230001848B69b1947ee2A607164",
+            "ibEUR": "0x67e019bfbd5a67207755D04467D6A70c0B75bF60",
+            "ibCHF": "0x490bD0886F221A5F79713D3E84404355A9293C50",
+            "ibAUD": "0x1b905331F7dE2748F4D6a0678e1521E20347643F",
+            "USDM": "0x6FAfCA7f49B4Fd9dC38117469cd31A1E5aec91F5",
+            "EURS-USDC": "0x801Ab06154Bf539dea4385a39f5fa8534fB53073",
+            "EURT-USD": "0xBCBB5b54Fa51e7b7Dc920340043B203447842A6b",
+            "d3pool": "0x16825039dfe2a5b01F3E1E6a2BBF9a576c6F95c4",
+            "ibBTC": "0x5e69e8b51B71C8596817fD442849BD44219bb095",
+            "OUSD": "0xF59D66c1d593Fb10e2f8c2a6fD2C958792434B9c",
+            "CRV-ETH": "0x6A5468752f8DB94134B6508dAbAC54D3b45efCE6",
+            "cvxCRV": "0x4560b99C904aAD03027B5178CCa81584744AC01f",
+            "MIM": "0x2DfB14E32e2F8156ec15a2c21c3A6c053af52Be8",
+            "3crypto": "0xE537B5cc158EB71037D4125BDD7538421981E6AA",
+            "EURT": "0x0d4EA8536F9A13e4FBa16042a46c30f092b06aA5",
+            "MIM-UST": "0xd8C620991b8E626C099eAaB29B1E3eEa279763bb",
+            "EURN": "0x8b9C0c24307344B6D7941ab654b2Aeee25347473",
+            "alETH": "0x718AbE90777F5B778B52D553a5aBaa148DD0dc5D",
+            "YFI-ETH": "0x790a60024bC3aea28385b60480f15a0771f26D09",
+            "UST Wormhole": "0x04d73c87b20d372cB3240C72eEFB9d79bA5e4959",
+            "3EUR": "0x5AB64C599FcC59f0f2726A300b03166A395578Da",
+            "CVX-ETH": "0x1635b506a88fBF428465Ad65d00e8d6B6E5846C3",
+            "RAI": "0x2D5D4869381C4Fce34789BC1D38aCCe747E295AE",
+            "Paxos": "0xc97511a1dDB162C8742D39FF320CfDCd13fBcf7e",
+            "DOLA": "0xd88dBBA3f9c4391Ee46f5FF548f289054db6E51C",
+            "LUSD": "0x5fA5B62c8AF877CB37031e0a3B2f34A78e3C56A6",
+            "FRAX": "0xB4AdA607B9d6b2c9Ee07A275e9616B84AC560139",
+            "EURS": "0x25212Df29073FfFA7A67399AcEfC2dd75a831A1A",
+            "renBTC": "0x7047F90229a057C13BF847C0744D646CFb6c9E1A",
+            "oBTC": "0xe9Dc63083c464d6EDcCFf23444fF3CFc6886f6FB",
+            "tBTC": "0x23D3D0f1c697247d5e0a9efB37d8b0ED0C464f7f",
+            "BBTC": "0x8fA3A9ecd9EFb07A8CE90A6eb014CF3c0E3B32Ef",
+            "pBTC": "0x3c5DF3077BcF800640B5DAE8c91106575a4826E6",
+            "sBTC": "0x8414Db07a7F743dEbaFb402070AB01a4E0d2E45e",
+            "rETH": "0xBfedbcbe27171C418CDabC2477042554b1904857",
+            "TUSD": "0xf8768814b88281DE4F532a3beEfA5b85B69b9324",
+            "sAave": "0xb4D1Be44BfF40ad6e506edf43156577a3f8672eC",
+            "BUSD": "0x6Ede7F19df5df6EF23bD5B9CeDb651580Bdf56Ca",
+            "alUSD": "0xA74d4B67b3368E83797a35382AFB776bAAE4F5C8",
+            "Y Pool": "0x4B5BfD52124784745c1071dcB244C6688d2533d3",
+            "ankrETH": "0x132d8D2C76Db3812403431fAcB00F3453Fc42125",
+            "yBUSD": "0x8ee57c05741aA9DB947A744E713C15d4d19D8822",
+            "UST": "0x1C6a9783F812b3Af3aBbf7de64c3cD7CC7D1af44",
+            "USDP": "0xC4dAf3b5e2A9e93861c3FBDd25f1e943B8D87417",
+            "USDN": "0x3B96d491f067912D18563d56858Ba7d6EC67a6fa",
+            "sUSD": "0x5a770DbD3Ee6bAF2802D29a901Ef11501C44797A",
+            "RSV": "0xC116dF49c02c5fD147DE25Baa105322ebF26Bd97",
+            "mUSD": "0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757",
+            "HUSD": "0x054AF22E1519b020516D72D749221c24756385C9",
+            "GUSD": "0x2a38B9B0201Ca39B17B460eD2f11e4929559071E",
+            "DUSD": "0x30FCf7c6cDfC46eC237783D94Fc78553E79d4E9C",
+            "Compound": "0xD6Ea40597Be05c201845c0bFd2e96A60bACde267",
+            "Aave": "0x39CAF13a104FF567f71fd2A4c68C026FDB6E740B",
+            "3pool": "0x84E13785B5a27879921D6F685f041421C7F482dA",
+            "LINK": "0xf2db9a7c0ACd427A680D640F02d90f6186E71725",
+            "Iron Bank": "0x27b7b1ad7288079A66d12350c828D3C00A6F07d7"
+        }
+    },
+    "strategies": {
+        "tokemak": {
+            "WETH": "0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D"
+        },
+        "notional": {
+            "DAI": "0x48e6ec297195828544ef23d13a8912bc9daf80ab",
+            "USDC": "0x9d42427830e617c7cf55050092e899569cee0233"
+        },
+        "88mph": {
+            "SNX": "0x860Ea5e0f8777CFA781873Ffb7fB3E8Ac6F5e63A"
+        },
+        "stethaccumulator": "0x0967aFe627C732d152e3dFCAdd6f9DBfecDE18c3",
+        "yvBoost": "0xd7240B32d24B814fE52946cD44d94a2e3532E63d",
+        "singlesidedcurve": {
+            "USDT": {
+                "ib": "0x65a8efc842d2ba536d3f781f504a1940f61124b4",
+                "frax": "0x92c212f4d6a8ad964acae745e1b45309b470af6e"
+            },
+            "DAI": {
+                "ib": "0xa6D1C610B3000F143c18c75D84BaA0eC22681185",
+                "frax": "0x494A7255C8df1f8d6064971707dB18dd1627d835"
+            },
+            "WETH": "0xF9fDc2B5F60355A237deb8BD62CC117b1C907f7b",
+            "USDC": {
+                "ib3CRV": "0x0c8f62939aeee6376f5fac88f48a5a3f2cf5debb",
+                "FRAX/3CRV": "0xbeddd783be73805febda2c40a2bf3881f04fd7cc"
+            },
+            "WBTC": "0xb85413f6d07454828eAc7E62df7d847316475178"
+        },
+        "singlesidedbalancer": {
+            "WBTC": "0xf2901406A1743ac032863777c61f1d61b59115fd",
+            "USDT": "0xf0e5f920f8daf2a01ed473d67e74565e7a4a1979",
+            "WETH": "0x1d4439680c489f18ce480e72deedc235952af9c9",
+            "USDC": "0xc7af91cdddfc7c782671efb640a4e4c4fb6352b4",
+            "DAI": "0x3B7c81daa0F7C897b3e09352E1Ca2fBE93Ac234D"
+        },
+        "levaave": {
+            "USDC": "0xd4E94061183b2DBF24473F28A3559cf4dE4459Db",
+            "WBTC": "0x53b087ad0e7790477af36429cfca606d373e3ebd",
+            "DAI": "0xBCF537f93FAc59D35a8e7Ac8d132ab5aE860481D"
+        },
+        "levcomp": {
+            "DAI": "0x1676055fE954EE6fc388F9096210E5EbE0A9070c"
+        },
+        "kashi": {
+            "DAI": "0xC8f17f8E15900b6D6079680b15Da3cE5263f62AA"
+        },
+        "convex": {
+            "HUSD/3CRV": "0xdc929e76081a78e5c32552c2e79d29ecab3f6755",
+            "USDN/3CRV": "0x8e87e65cb28c069550012f92d5470db6eb6897c0",
+            "LUSD/3CRV": "0xecff3267626def1be8aa58e525b72af295c78131",
+            "USDP/3CRV": "0xfb0702469a1a0440e87c06605461e8660fd0f43d",
+            "alUSD/3CRV": "0x02e158754e92c9ccdb5e61b42902ef6a4e008f48",
+            "FRAX/3CRV": "0x5e1dce90ab54382e3f66e0b245e07209798c171c",
+            "DOLA/3CRV": "0xBCe343F34575683c5384e095B39d85794d7aFE24",
+            "OUSD/3CRV": "0xe272F6016290eb492092C65921413F2Cf1604A3C",
+            "UST/3CRV": "0x0921e388e86bbe0356e37413f946cce47edd294d",
+            "BUSD/3CRV": "0xa44f947e51ec6456a1d786f82ea5865f87da9c30",
+            "USDM/3CRV": "0x240f5167a98bc2198110bcdd4cb04d06dd52d55d",
+            "MUSD/3CRV": "0x75be6abc02a010559ed5c7b0eab94abd2b783b65",
+            "RSV/3CRV": "0xa7a5bff106d5e7aa601f6d540c5034ca2a13787b",
+            "ib/3CRV": "0xf0aaba6bb8e6bae83ea984bc4b7dcf0ff54a8fef",
+            "GUSD/3CRV": "0x2d42cfdc6a1b03490892adf7dc6c62aa7228e5d6",
+            "RAI/3CRV": "0x8629876fd4f8d76c615619ec0f4ab4d98762e05a",
+            "MIM/3CRV": "0x6570b0a1593a59ccb378fb0b01a753875fca99c4",
+            "DUSD/3CRV": "0x33d7e0fa2c7db85ef3abc1c44e07e0b5cb2e4c14",
+            "a3CRV": "0xac4ae0b06c913df4608db60e2571a8e91b74c619",
+            "EURT/sEUR": "0x5e10e27deae12877e23a68cc0d6f1b134b4d517a",
+            "ankrETH/ETH": "0xb194dcff4e11d26919ce3b3255f69aeca5951e88",
+            "CVX/ETH": "0x74290da1064fa506844e82b2850a7d3093d948c2",
+            "D3Pool": "0x42c6d09d202c22fe64f41559223db8b2afff6367",
+            "ibAUD/sAUD": "0x4a300b67b5ec68ef7b57e5ccd4d60d17b2cd2d28",
+            "ibCHF/sCHF": "0x000007252ab8d9120005d30aa15567ea8de9a110",
+            "ibJPY/sJPY": "0xb2690ec8179a220f494dbf486bd8e2e508455fb4",
+            "ibGBP/sGBP": "0x3dd066847f499f4cc1a8a7bbe8fcb5b5391d8ae7",
+            "ibEUR/sEUR": "0x15883c4cec9c9f3dfac739ff17caebdf3b46def2",
+            "ibKRW/sKRW": "0x2d2ecdb31be2d523e54a3b75ba845508ede4d0ea",
+            "TBTC/crvRenWSBTC": "0x07fb6a53185e2f095253099a47f34cd410eb2a89",
+            "pBTC/crvRenWSBTC": "0x7b5cb4694b0a299ed2f65db7d87b286461549e84",
+            "EURS/sEUR": "0xc45b3312c0de684301a58a1eee558151bbe8f45c",
+            "Tricrypto": "0xcc39ec658eedb7e44f5aed9b5192219982d2c9e5",
+            "cvxCRV/CRV": "0xaf6f42bfb29e90dfe51f2341ff1b1f99fd776a70",
+            "yDAI+yUSDC+yUSDT+yTUSD": "0xa5189cb0149761a8346d64e384924b2394dfa595",
+            "crvPlain3andSUSD": "0xfa773b91b59b0895877c769000b9824b46b13a20",
+            "3EUR": "0x446a79e655f68a96560e35577a0a3a017ee0c04a",
+            "rETH/wstETH": "0x36cd87a3231b3fefc6c398746c90bc22e56077df",
+            "HBTC/WBTC": "0x7ed0d52c5944c7bf92fedc87fec49d474ee133ce",
+            "CRV/ETH": "0x621b8bdd56b2be79ef658d67e92d018acfc33158",
+            "crvRenWBTC": "0x7799f476522ebe259fc525c1a21e84f7dd551955",
+            "alETH/ETH": "0x4ec142d094beca5f7789ccd9341d0215c8b1e43f",
+            "YFI/ETH": "0xa04947059831783c561e59a43b93dcb5bee7cab2",
+            "EURS/USDC": "0x3bca26c3d49af712ac74af82de27665a610999e2",
+            "RenWSBTC": "0x7ab4db515bf258a88bb14f3685769a0f70b8778f",
+            "3CRV": "0xec088b98e71ba5ffaf520c2f6a6f0153f1bf494b",
+            "EURN/EURT": "0x3199437193625dccd6f9c9e98bdf93582200eb1f",
+            "yDAI+yUSDC+yUSDT+yBUSD": "0x3ca0b4d7eede71061b0badb4f0e86e99b0fea613",
+            "bBTC/sbtcCRV": "0xe9ac8d34c546cbfdad98f9a4546db5fe08d01bf2",
+            "sETH/ETH": "0x22d07f42cf4d077e765560ff6a741ef8e851091c",
+            "saCRV": "0xf5636591256195414f25d19034b70a4742fc2a2e",
+            "EURT/USD": "0xddca0f7565141e30d0c90570bd9c73a69bee48ec",
+            "rETH/ETH": "0x8e4aa2e00694adaf37f0311651262671f4d7ac16"
+        }
+    },
+    "ape_tax": {
+        "strategies": {
+            "RadioactiveDAI": "0x4A0c42ee5fe1Af2720Ee3d365bA824DF4478FBe1",
+            "StargateSamba": "0x2b982BE433093A80e1801A0Dd894994a170a5025",
+            "DaisyChain": "0xaa1c21f4ab475b2e12bc7a56f7b60610e201dcf6"
+        }
+    },
+    "sharer_v4": "0xc491599b9A20c3A2F0A85697Ee6D9434EFa9f503",
+    "strategists": {
+        "poolpi": "0x03ebbFCc5401beef5B4A06c3BfDd26a75cB09A84",
+        "charles": "0x21f2A189690013aA15d495DE35a837F5c7B10F89"
+    },
+    "sms": "0x16388463d60FFE0661Cf7F1f31a7D658aC790ff7"
+}
