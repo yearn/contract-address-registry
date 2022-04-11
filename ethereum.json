@@ -193,7 +193,8 @@
         "strategies": {
             "RadioactiveDAI": "0x4A0c42ee5fe1Af2720Ee3d365bA824DF4478FBe1",
             "StargateSamba": "0x2b982BE433093A80e1801A0Dd894994a170a5025",
-            "DaisyChain": "0xaa1c21f4ab475b2e12bc7a56f7b60610e201dcf6"
+            "DaisyChain": "0xaa1c21f4ab475b2e12bc7a56f7b60610e201dcf6",
+            "EnterTheReactor": "0xa48c616144FD4429b216A86388CAb0Eed990cE87"
         }
     },
     "sharer_v4": "0xc491599b9A20c3A2F0A85697Ee6D9434EFa9f503",
