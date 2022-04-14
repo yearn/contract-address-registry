@@ -187,6 +187,9 @@
             "saCRV": "0xF5636591256195414f25d19034B70A4742Fc2A2e",
             "EURT/USD": "0xdDCa0F7565141e30D0c90570bD9C73A69BEE48EC",
             "rETH/ETH": "0x8E4AA2E00694Adaf37f0311651262671f4d7Ac16"
+        },
+        "angle": {
+            "USDC": "0xcFa730D6CD6568872C18101442228499229fb70E"
         }
     },
     "ape_tax": {
