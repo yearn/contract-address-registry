@@ -87,7 +87,13 @@
     },
     "strategies": {
         "tokemak": {
-            "WETH": "0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D"
+            "WETH": "0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D",
+            "DAI": "0xBD455373692c8F4bae2131d66BFfD5fE26C6b659",
+            "USDC": "0x9AA08BA012B2f2c002BbC56a8c3ECE5b3E8299d3",
+            "LUSD": "0x24788D1468eEbb6a57ab8AB94a307F8B31bb2e81",
+            "SUSHI": "0xE8356C2EA2767fCBd3C1b7DD8cEBD2Fc12dDe13c",
+            "SNX": "0x75c445F9c13B677b4E5488E37A8Eb3C70875441e",
+            "FRAX": "0x7149ed403B22558dc450f50F5EE01dcb027965b1"
         },
         "notional": {
             "DAI": "0x48e6Ec297195828544Ef23d13A8912bc9daf80Ab",
@@ -112,7 +118,8 @@
                 "ib3CRV": "0x0c8f62939Aeee6376f5FAc88f48a5A3F2Cf5dEbB",
                 "FRAX/3CRV": "0xBEDDD783bE73805FEbda2C40a2BF3881F04Fd7Cc"
             },
-            "WBTC": "0xb85413f6d07454828eAc7E62df7d847316475178"
+            "WBTC": "0xb85413f6d07454828eAc7E62df7d847316475178",
+            "FRAX": "0x18f77065101B46ef219E2F40203C4d26d3fdAd86"
         },
         "singlesidedbalancer": {
             "WBTC": "0xf2901406A1743ac032863777c61f1d61b59115fd",
@@ -197,7 +204,8 @@
             "RadioactiveDAI": "0x4A0c42ee5fe1Af2720Ee3d365bA824DF4478FBe1",
             "StargateSamba": "0x2b982BE433093A80e1801A0Dd894994a170a5025",
             "DaisyChain": "0xaa1c21f4ab475b2e12bc7a56f7b60610e201dcf6",
-            "EnterTheReactor": "0xa48c616144FD4429b216A86388CAb0Eed990cE87"
+            "EnterTheReactor": "0xa48c616144FD4429b216A86388CAb0Eed990cE87",
+            "FraxFifthAvenue": "0xB364D19c3FF37e0fa4B94bf4cf626729533C1c26"
         }
     },
     "sharer_v4": "0xc491599b9A20c3A2F0A85697Ee6D9434EFa9f503",
