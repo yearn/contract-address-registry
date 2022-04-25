@@ -213,5 +213,6 @@
         "poolpi": "0x03ebbFCc5401beef5B4A06c3BfDd26a75cB09A84",
         "charles": "0x21f2A189690013aA15d495DE35a837F5c7B10F89"
     },
-    "sms": "0x16388463d60FFE0661Cf7F1f31a7D658aC790ff7"
+    "sms": "0x16388463d60FFE0661Cf7F1f31a7D658aC790ff7",
+    "healthcheck": "0xddcea799ff1699e98edf118e0629a974df7df012"
 }
