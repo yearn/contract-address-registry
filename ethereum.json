@@ -107,16 +107,16 @@
         "yvBoost": "0xd7240B32d24B814fE52946cD44d94a2e3532E63d",
         "singlesidedcurve": {
             "USDT": {
-                "ib": "0x65A8efC842D2Ba536d3F781F504A1940f61124b4",
-                "frax": "0x92c212F4d6A8Ad964ACAe745e1B45309B470Af6E"
+                "IB/3CRV": "0x65A8efC842D2Ba536d3F781F504A1940f61124b4",
+                "FRAX/3CRV": "0x92c212F4d6A8Ad964ACAe745e1B45309B470Af6E"
             },
             "DAI": {
-                "ib": "0xa6D1C610B3000F143c18c75D84BaA0eC22681185",
-                "frax": "0x494A7255C8df1f8d6064971707dB18dd1627d835"
+                "IB/3CRV": "0xa6D1C610B3000F143c18c75D84BaA0eC22681185",
+                "FRAX/3CRV": "0x494A7255C8df1f8d6064971707dB18dd1627d835"
             },
             "WETH": "0xF9fDc2B5F60355A237deb8BD62CC117b1C907f7b",
             "USDC": {
-                "ib3CRV": "0x0c8f62939Aeee6376f5FAc88f48a5A3F2Cf5dEbB",
+                "IB/3CRV": "0x0c8f62939Aeee6376f5FAc88f48a5A3F2Cf5dEbB",
                 "FRAX/3CRV": "0xBEDDD783bE73805FEbda2C40a2BF3881F04Fd7Cc"
             },
             "WBTC": "0xb85413f6d07454828eAc7E62df7d847316475178",
