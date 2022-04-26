@@ -87,7 +87,13 @@
     },
     "strategies": {
         "tokemak": {
-            "WETH": "0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D"
+            "WETH": "0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D",
+            "DAI": "0xBD455373692c8F4bae2131d66BFfD5fE26C6b659",
+            "USDC": "0x9AA08BA012B2f2c002BbC56a8c3ECE5b3E8299d3",
+            "LUSD": "0x24788D1468eEbb6a57ab8AB94a307F8B31bb2e81",
+            "SUSHI": "0xE8356C2EA2767fCBd3C1b7DD8cEBD2Fc12dDe13c",
+            "SNX": "0x75c445F9c13B677b4E5488E37A8Eb3C70875441e",
+            "FRAX": "0x7149ed403B22558dc450f50F5EE01dcb027965b1"
         },
         "notional": {
             "DAI": "0x48e6Ec297195828544Ef23d13A8912bc9daf80Ab",
@@ -96,23 +102,25 @@
         "88mph": {
             "SNX": "0x860Ea5e0f8777CFA781873Ffb7fB3E8Ac6F5e63A"
         },
+        "liquity_stability_pool": "0x8ec4c06960c6BDBb4964D1830aC1355EE78401bD",
         "stethaccumulator": "0x0967aFe627C732d152e3dFCAdd6f9DBfecDE18c3",
         "yvBoost": "0xd7240B32d24B814fE52946cD44d94a2e3532E63d",
         "singlesidedcurve": {
             "USDT": {
-                "ib": "0x65A8efC842D2Ba536d3F781F504A1940f61124b4",
-                "frax": "0x92c212F4d6A8Ad964ACAe745e1B45309B470Af6E"
+                "IB/3CRV": "0x65A8efC842D2Ba536d3F781F504A1940f61124b4",
+                "FRAX/3CRV": "0x92c212F4d6A8Ad964ACAe745e1B45309B470Af6E"
             },
             "DAI": {
-                "ib": "0xa6D1C610B3000F143c18c75D84BaA0eC22681185",
-                "frax": "0x494A7255C8df1f8d6064971707dB18dd1627d835"
+                "IB/3CRV": "0xa6D1C610B3000F143c18c75D84BaA0eC22681185",
+                "FRAX/3CRV": "0x494A7255C8df1f8d6064971707dB18dd1627d835"
             },
             "WETH": "0xF9fDc2B5F60355A237deb8BD62CC117b1C907f7b",
             "USDC": {
-                "ib3CRV": "0x0c8f62939Aeee6376f5FAc88f48a5A3F2Cf5dEbB",
+                "IB/3CRV": "0x0c8f62939Aeee6376f5FAc88f48a5A3F2Cf5dEbB",
                 "FRAX/3CRV": "0xBEDDD783bE73805FEbda2C40a2BF3881F04Fd7Cc"
             },
-            "WBTC": "0xb85413f6d07454828eAc7E62df7d847316475178"
+            "WBTC": "0xb85413f6d07454828eAc7E62df7d847316475178",
+            "FRAX": "0x18f77065101B46ef219E2F40203C4d26d3fdAd86"
         },
         "singlesidedbalancer": {
             "WBTC": "0xf2901406A1743ac032863777c61f1d61b59115fd",
@@ -187,6 +195,9 @@
             "saCRV": "0xF5636591256195414f25d19034B70A4742Fc2A2e",
             "EURT/USD": "0xdDCa0F7565141e30D0c90570bD9C73A69BEE48EC",
             "rETH/ETH": "0x8E4AA2E00694Adaf37f0311651262671f4d7Ac16"
+        },
+        "angle": {
+            "USDC": "0xcFa730D6CD6568872C18101442228499229fb70E"
         }
     },
     "ape_tax": {
@@ -194,7 +205,8 @@
             "RadioactiveDAI": "0x4A0c42ee5fe1Af2720Ee3d365bA824DF4478FBe1",
             "StargateSamba": "0x2b982BE433093A80e1801A0Dd894994a170a5025",
             "DaisyChain": "0xaa1c21f4ab475b2e12bc7a56f7b60610e201dcf6",
-            "EnterTheReactor": "0xa48c616144FD4429b216A86388CAb0Eed990cE87"
+            "EnterTheReactor": "0xa48c616144FD4429b216A86388CAb0Eed990cE87",
+            "FraxFifthAvenue": "0xB364D19c3FF37e0fa4B94bf4cf626729533C1c26"
         }
     },
     "sharer_v4": "0xc491599b9A20c3A2F0A85697Ee6D9434EFa9f503",
@@ -202,5 +214,6 @@
         "poolpi": "0x03ebbFCc5401beef5B4A06c3BfDd26a75cB09A84",
         "charles": "0x21f2A189690013aA15d495DE35a837F5c7B10F89"
     },
-    "sms": "0x16388463d60FFE0661Cf7F1f31a7D658aC790ff7"
+    "sms": "0x16388463d60FFE0661Cf7F1f31a7D658aC790ff7",
+    "healthcheck": "0xddcea799ff1699e98edf118e0629a974df7df012"
 }
