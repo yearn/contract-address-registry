@@ -99,9 +99,7 @@
             "DAI": "0x48e6Ec297195828544Ef23d13A8912bc9daf80Ab",
             "USDC": "0x9D42427830e617C7cf55050092E899569CeE0233"
         },
-        "88mph": {
-            "SNX": "0x860Ea5e0f8777CFA781873Ffb7fB3E8Ac6F5e63A"
-        },
+        "88mph": {"SNX": "0x860Ea5e0f8777CFA781873Ffb7fB3E8Ac6F5e63A"},
         "liquity_stability_pool": "0x8ec4c06960c6BDBb4964D1830aC1355EE78401bD",
         "stethaccumulator": "0x0967aFe627C732d152e3dFCAdd6f9DBfecDE18c3",
         "yvBoost": "0xd7240B32d24B814fE52946cD44d94a2e3532E63d",
@@ -134,12 +132,8 @@
             "WBTC": "0x53b087ad0e7790477AF36429cFCa606D373E3EbD",
             "DAI": "0xBCF537f93FAc59D35a8e7Ac8d132ab5aE860481D"
         },
-        "levcomp": {
-            "DAI": "0x1676055fE954EE6fc388F9096210E5EbE0A9070c"
-        },
-        "kashi": {
-            "DAI": "0xC8f17f8E15900b6D6079680b15Da3cE5263f62AA"
-        },
+        "levcomp": {"DAI": "0x1676055fE954EE6fc388F9096210E5EbE0A9070c"},
+        "kashi": {"DAI": "0xC8f17f8E15900b6D6079680b15Da3cE5263f62AA"},
         "convex": {
             "HUSD/3CRV": "0xdC929e76081a78e5c32552C2e79D29ECab3F6755",
             "USDN/3CRV": "0x8e87e65Cb28c069550012f92d5470dB6EB6897c0",
@@ -196,9 +190,7 @@
             "EURT/USD": "0xdDCa0F7565141e30D0c90570bD9C73A69BEE48EC",
             "rETH/ETH": "0x8E4AA2E00694Adaf37f0311651262671f4d7Ac16"
         },
-        "angle": {
-            "USDC": "0xcFa730D6CD6568872C18101442228499229fb70E"
-        }
+        "angle": {"USDC": "0xcFa730D6CD6568872C18101442228499229fb70E"}
     },
     "ape_tax": {
         "strategies": {
@@ -212,8 +204,12 @@
     "sharer_v4": "0xc491599b9A20c3A2F0A85697Ee6D9434EFa9f503",
     "strategists": {
         "poolpi": "0x03ebbFCc5401beef5B4A06c3BfDd26a75cB09A84",
-        "charles": "0x21f2A189690013aA15d495DE35a837F5c7B10F89"
+        "charles": "0x21f2A189690013aA15d495DE35a837F5c7B10F89",
+        "tonkers": "0x621BcFaA87bA0B7c57ca49e1BB1a8b917C34Ed2F"
     },
     "sms": "0x16388463d60FFE0661Cf7F1f31a7D658aC790ff7",
-    "healthcheck": "0xddcea799ff1699e98edf118e0629a974df7df012"
+    "healthcheck": "0xddcea799ff1699e98edf118e0629a974df7df012",
+    "multicall_swapper": "0x711d1D8E8B2b468c92c202127A2BBFEFC14bf105",
+    "trade_factory": "0x7BAF843e06095f68F4990Ca50161C2C4E4e01ec6",
+    "milkman": "0x9d763Cca6A8551283478CeC44071d72Ec3FD58Cb"
 }
