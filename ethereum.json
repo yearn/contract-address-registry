@@ -91,7 +91,7 @@
             "ibKRW-USDC": "0xF6B9DFE6bc42ed2eaB44D6B829017f7B78B29f88",
             "KP3R-ETH": "0xb09F2a67a731466182518fae980feAe96479d80b",
             "STG-USDC": "0x341bb10D8f5947f3066502DC8125d9b8949FD3D6",
-            "yCRV: "0xc97232527B62eFb0D8ed38CF3EA103A6CcA4037e"
+            "yCRV": "0xc97232527B62eFb0D8ed38CF3EA103A6CcA4037e"
         }
     },
     "strategies": {
