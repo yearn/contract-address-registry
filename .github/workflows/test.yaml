@@ -62,9 +62,6 @@ jobs:
     - name: Install python dependencies
       run: pip install -r requirements-dev.txt
 
-    - name: Compile Code
-      run: brownie compile --size
-
     - name: Run Address Check
       env:
         ETHERSCAN_TOKEN: MW5CQA6QK5YMJXP2WP3RA36HM5A7RA1IHA
