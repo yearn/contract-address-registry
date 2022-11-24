@@ -1,7 +1,7 @@
 from brownie import Contract, accounts, web3, chain, ZERO_ADDRESS
 
 
-def check_all_addresses():
+def main():
     # pulled this from my ape-safe testing page, used for checking that address registry isn't compromised
     # fetch all of our vaults and strategies
     vaults_and_strategies = []
