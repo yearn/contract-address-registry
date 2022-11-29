@@ -1,5 +1,6 @@
 from brownie import Contract, accounts, web3, chain, ZERO_ADDRESS
-
+from pathlib import Path
+import os
 
 def main():
     # pulled this from my ape-safe testing page, used for checking that address registry isn't compromised
@@ -30,7 +31,7 @@ def main():
 
     print("Number of addresses:", len(vaults_and_strategies))
 
-    f = open("../ethereum.json")
+    f = os.path.join(Path().resolve().parent, 'ethereum.json')
     eth_addresses = json.load(f)
     eth_strategies = eth_addresses["strategies"]
     level_one = list(eth_strategies.keys())
