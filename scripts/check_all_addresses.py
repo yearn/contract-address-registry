@@ -17,7 +17,7 @@ def main():
         for x in range(num_vaults):
             vault = yearn_registry.vaults(token, x)
             vaults_and_strategies.append(vault)
-            vault_contract = safe.contract(vault)
+            vault_contract = Contract(vault)
             # print("This is our vault:", vault_contract.name(), "Version:", vault_contract.apiVersion())
             # get each strategy attached
             for strat_length in range(20):
