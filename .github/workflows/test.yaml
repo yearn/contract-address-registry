@@ -71,6 +71,8 @@ jobs:
     - name: download deployments.db
       run: axel -o $HOME/deployments.db https://robowoofystorage.blob.core.windows.net/deploymentsdb/deployments.db
     
+    - name: brownie networks
+      run: brownie networks list true
     - name: copy deployments db
       run: sudo chmod 777 ~/deployments.db && sudo mv ~/deployments.db ~/.brownie/
 
