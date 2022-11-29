@@ -72,7 +72,7 @@ jobs:
       run: axel -o $HOME/deployments.db https://robowoofystorage.blob.core.windows.net/deploymentsdb/deployments.db
     
     - name: copy deployments db
-      run: sudo chmod 777 ~/deployments.db && sudo cp ~/deployments.db ~/.brownie/deployments.db
+      run: sudo chmod 777 ~/deployments.db && sudo mv ~/deployments.db ~/.brownie/
 
     - name: Run Address Check
       env:
