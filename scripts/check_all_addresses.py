@@ -32,7 +32,7 @@ def main():
 
     print("Number of addresses:", len(vaults_and_strategies))
 
-    f = os.path.join(Path().resolve().parent, 'ethereum.json')
+    f = open(os.path.join(Path().resolve().parent, 'ethereum.json'))
     eth_addresses = json.load(f)
     eth_strategies = eth_addresses["strategies"]
     level_one = list(eth_strategies.keys())
