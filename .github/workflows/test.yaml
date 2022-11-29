@@ -61,6 +61,9 @@ jobs:
 
     - name: Install python dependencies
       run: pip install -r requirements-dev.txt
+      
+    - name: Download compilers
+      run: python scripts/download_compilers.py
 
     - name: Run Address Check
       env:
