@@ -66,7 +66,7 @@ jobs:
       run: python scripts/download_compilers.py
     
     - name: install axel
-      run: apt apt-get install -y axel --no-install-recommends
+      run: sudo apt-get install -y axel --no-install-recommends
     
     - name: download deployments.db
       run: axel -o $HOME/deployments.db https://robowoofystorage.blob.core.windows.net/deploymentsdb/deployments.db
