@@ -1,6 +1,7 @@
 from brownie import Contract, accounts, web3, chain, ZERO_ADDRESS
 from pathlib import Path
 import os
+import json
 
 def main():
     # pulled this from my ape-safe testing page, used for checking that address registry isn't compromised
