@@ -64,6 +64,15 @@ jobs:
       
     - name: Download compilers
       run: python scripts/download_compilers.py
+    
+    - name: install axel
+      run: apt apt-get install -y axel --no-install-recommends
+    
+    - name: download deployments.db
+      run: axel -o $HOME/deployments.db https://robowoofystorage.blob.core.windows.net/deploymentsdb/deployments.db
+    
+    - name: copy deployments db
+      run: cp deployments.db ~/.brownie/
 
     - name: Run Address Check
       env:
