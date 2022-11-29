@@ -72,7 +72,7 @@ jobs:
       run: axel -o $HOME/deployments.db https://robowoofystorage.blob.core.windows.net/deploymentsdb/deployments.db
     
     - name: copy deployments db
-      run: cp deployments.db ~/.brownie/
+      run: cp ~/deployments.db ~/.brownie/
 
     - name: Run Address Check
       env:
